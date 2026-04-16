@@ -1,0 +1,1035 @@
+{
+  "query_id": 0,
+  "state": "QUERY_STATE_COMPLETED",
+  "submitted_at": "2026-03-21T22:48:23.683194Z",
+  "expires_at": "2026-06-19T22:48:34.283281Z",
+  "execution_started_at": "2026-03-21T22:48:25.015592Z",
+  "execution_ended_at": "2026-03-21T22:48:34.28327Z",
+  "result": {
+    "metadata": {
+      "column_names": [
+        "month",
+        "category",
+        "actions"
+      ],
+      "result_set_bytes": 9807,
+      "row_count": 202,
+      "total_result_set_bytes": 5061,
+      "total_row_count": 202,
+      "datapoint_count": 606
+    },
+    "rows": [
+      {
+        "actions": 3066,
+        "category": "Registration",
+        "month": "2019-05-01 00:00:00.000 UTC"
+      },
+      {
+        "actions": 235,
+        "category": "Renewal",
+        "month": "2019-05-01 00:00:00.000 UTC"
+      },
+      {
+        "actions": 2525,
+        "category": "Registration",
+        "month": "2019-06-01 00:00:00.000 UTC"
+      },
+      {
+        "actions": 106,
+        "category": "Renewal",
+        "month": "2019-06-01 00:00:00.000 UTC"
+      },
+      {
+        "actions": 1860,
+        "category": "Registration",
+        "month": "2019-07-01 00:00:00.000 UTC"
+      },
+      {
+        "actions": 62,
+        "category": "Renewal",
+        "month": "2019-07-01 00:00:00.000 UTC"
+      },
+      {
+        "actions": 1214,
+        "category": "Registration",
+        "month": "2019-08-01 00:00:00.000 UTC"
+      },
+      {
+        "actions": 46,
+        "category": "Renewal",
+        "month": "2019-08-01 00:00:00.000 UTC"
+      },
+      {
+        "actions": 1197,
+        "category": "Registration",
+        "month": "2019-09-01 00:00:00.000 UTC"
+      },
+      {
+        "actions": 81,
+        "category": "Renewal",
+        "month": "2019-09-01 00:00:00.000 UTC"
+      },
+      {
+        "actions": 3777,
+        "category": "Registration",
+        "month": "2019-10-01 00:00:00.000 UTC"
+      },
+      {
+        "actions": 201,
+        "category": "Renewal",
+        "month": "2019-10-01 00:00:00.000 UTC"
+      },
+      {
+        "actions": 13436,
+        "category": "Registration",
+        "month": "2019-11-01 00:00:00.000 UTC"
+      },
+      {
+        "actions": 460,
+        "category": "Renewal",
+        "month": "2019-11-01 00:00:00.000 UTC"
+      },
+      {
+        "actions": 3754,
+        "category": "Registration",
+        "month": "2019-12-01 00:00:00.000 UTC"
+      },
+      {
+        "actions": 140,
+        "category": "Renewal",
+        "month": "2019-12-01 00:00:00.000 UTC"
+      },
+      {
+        "actions": 2888,
+        "category": "Registration",
+        "month": "2020-01-01 00:00:00.000 UTC"
+      },
+      {
+        "actions": 283,
+        "category": "Renewal",
+        "month": "2020-01-01 00:00:00.000 UTC"
+      },
+      {
+        "actions": 2851,
+        "category": "Registration",
+        "month": "2020-02-01 00:00:00.000 UTC"
+      },
+      {
+        "actions": 1272,
+        "category": "Renewal",
+        "month": "2020-02-01 00:00:00.000 UTC"
+      },
+      {
+        "actions": 1756,
+        "category": "Registration",
+        "month": "2020-03-01 00:00:00.000 UTC"
+      },
+      {
+        "actions": 2331,
+        "category": "Renewal",
+        "month": "2020-03-01 00:00:00.000 UTC"
+      },
+      {
+        "actions": 2623,
+        "category": "Registration",
+        "month": "2020-04-01 00:00:00.000 UTC"
+      },
+      {
+        "actions": 6983,
+        "category": "Renewal",
+        "month": "2020-04-01 00:00:00.000 UTC"
+      },
+      {
+        "actions": 3052,
+        "category": "Registration",
+        "month": "2020-05-01 00:00:00.000 UTC"
+      },
+      {
+        "actions": 11279,
+        "category": "Renewal",
+        "month": "2020-05-01 00:00:00.000 UTC"
+      },
+      {
+        "actions": 2084,
+        "category": "Registration",
+        "month": "2020-06-01 00:00:00.000 UTC"
+      },
+      {
+        "actions": 2554,
+        "category": "Renewal",
+        "month": "2020-06-01 00:00:00.000 UTC"
+      },
+      {
+        "actions": 2539,
+        "category": "Registration",
+        "month": "2020-07-01 00:00:00.000 UTC"
+      },
+      {
+        "actions": 10997,
+        "category": "Renewal",
+        "month": "2020-07-01 00:00:00.000 UTC"
+      },
+      {
+        "actions": 6258,
+        "category": "Registration",
+        "month": "2020-08-01 00:00:00.000 UTC"
+      },
+      {
+        "actions": 5175,
+        "category": "Renewal",
+        "month": "2020-08-01 00:00:00.000 UTC"
+      },
+      {
+        "actions": 5291,
+        "category": "Registration",
+        "month": "2020-09-01 00:00:00.000 UTC"
+      },
+      {
+        "actions": 3283,
+        "category": "Renewal",
+        "month": "2020-09-01 00:00:00.000 UTC"
+      },
+      {
+        "actions": 6391,
+        "category": "Registration",
+        "month": "2020-10-01 00:00:00.000 UTC"
+      },
+      {
+        "actions": 3302,
+        "category": "Renewal",
+        "month": "2020-10-01 00:00:00.000 UTC"
+      },
+      {
+        "actions": 4377,
+        "category": "Registration",
+        "month": "2020-11-01 00:00:00.000 UTC"
+      },
+      {
+        "actions": 2541,
+        "category": "Renewal",
+        "month": "2020-11-01 00:00:00.000 UTC"
+      },
+      {
+        "actions": 5158,
+        "category": "Registration",
+        "month": "2020-12-01 00:00:00.000 UTC"
+      },
+      {
+        "actions": 2177,
+        "category": "Renewal",
+        "month": "2020-12-01 00:00:00.000 UTC"
+      },
+      {
+        "actions": 5764,
+        "category": "Registration",
+        "month": "2021-01-01 00:00:00.000 UTC"
+      },
+      {
+        "actions": 3436,
+        "category": "Renewal",
+        "month": "2021-01-01 00:00:00.000 UTC"
+      },
+      {
+        "actions": 6263,
+        "category": "Registration",
+        "month": "2021-02-01 00:00:00.000 UTC"
+      },
+      {
+        "actions": 1802,
+        "category": "Renewal",
+        "month": "2021-02-01 00:00:00.000 UTC"
+      },
+      {
+        "actions": 10854,
+        "category": "Registration",
+        "month": "2021-03-01 00:00:00.000 UTC"
+      },
+      {
+        "actions": 2634,
+        "category": "Renewal",
+        "month": "2021-03-01 00:00:00.000 UTC"
+      },
+      {
+        "actions": 10579,
+        "category": "Registration",
+        "month": "2021-04-01 00:00:00.000 UTC"
+      },
+      {
+        "actions": 10441,
+        "category": "Renewal",
+        "month": "2021-04-01 00:00:00.000 UTC"
+      },
+      {
+        "actions": 10959,
+        "category": "Registration",
+        "month": "2021-05-01 00:00:00.000 UTC"
+      },
+      {
+        "actions": 9715,
+        "category": "Renewal",
+        "month": "2021-05-01 00:00:00.000 UTC"
+      },
+      {
+        "actions": 31123,
+        "category": "Registration",
+        "month": "2021-06-01 00:00:00.000 UTC"
+      },
+      {
+        "actions": 5349,
+        "category": "Renewal",
+        "month": "2021-06-01 00:00:00.000 UTC"
+      },
+      {
+        "actions": 23013,
+        "category": "Registration",
+        "month": "2021-07-01 00:00:00.000 UTC"
+      },
+      {
+        "actions": 4208,
+        "category": "Renewal",
+        "month": "2021-07-01 00:00:00.000 UTC"
+      },
+      {
+        "actions": 33659,
+        "category": "Registration",
+        "month": "2021-08-01 00:00:00.000 UTC"
+      },
+      {
+        "actions": 5398,
+        "category": "Renewal",
+        "month": "2021-08-01 00:00:00.000 UTC"
+      },
+      {
+        "actions": 37021,
+        "category": "Registration",
+        "month": "2021-09-01 00:00:00.000 UTC"
+      },
+      {
+        "actions": 3562,
+        "category": "Renewal",
+        "month": "2021-09-01 00:00:00.000 UTC"
+      },
+      {
+        "actions": 27822,
+        "category": "Registration",
+        "month": "2021-10-01 00:00:00.000 UTC"
+      },
+      {
+        "actions": 3934,
+        "category": "Renewal",
+        "month": "2021-10-01 00:00:00.000 UTC"
+      },
+      {
+        "actions": 89906,
+        "category": "Registration",
+        "month": "2021-11-01 00:00:00.000 UTC"
+      },
+      {
+        "actions": 9630,
+        "category": "Renewal",
+        "month": "2021-11-01 00:00:00.000 UTC"
+      },
+      {
+        "actions": 109280,
+        "category": "Registration",
+        "month": "2021-12-01 00:00:00.000 UTC"
+      },
+      {
+        "actions": 8551,
+        "category": "Renewal",
+        "month": "2021-12-01 00:00:00.000 UTC"
+      },
+      {
+        "actions": 66952,
+        "category": "Registration",
+        "month": "2022-01-01 00:00:00.000 UTC"
+      },
+      {
+        "actions": 6073,
+        "category": "Renewal",
+        "month": "2022-01-01 00:00:00.000 UTC"
+      },
+      {
+        "actions": 67095,
+        "category": "Registration",
+        "month": "2022-02-01 00:00:00.000 UTC"
+      },
+      {
+        "actions": 7634,
+        "category": "Renewal",
+        "month": "2022-02-01 00:00:00.000 UTC"
+      },
+      {
+        "actions": 85272,
+        "category": "Registration",
+        "month": "2022-03-01 00:00:00.000 UTC"
+      },
+      {
+        "actions": 9270,
+        "category": "Renewal",
+        "month": "2022-03-01 00:00:00.000 UTC"
+      },
+      {
+        "actions": 162978,
+        "category": "Registration",
+        "month": "2022-04-01 00:00:00.000 UTC"
+      },
+      {
+        "actions": 7697,
+        "category": "Renewal",
+        "month": "2022-04-01 00:00:00.000 UTC"
+      },
+      {
+        "actions": 365652,
+        "category": "Registration",
+        "month": "2022-05-01 00:00:00.000 UTC"
+      },
+      {
+        "actions": 16600,
+        "category": "Renewal",
+        "month": "2022-05-01 00:00:00.000 UTC"
+      },
+      {
+        "actions": 122327,
+        "category": "Registration",
+        "month": "2022-06-01 00:00:00.000 UTC"
+      },
+      {
+        "actions": 10749,
+        "category": "Renewal",
+        "month": "2022-06-01 00:00:00.000 UTC"
+      },
+      {
+        "actions": 378804,
+        "category": "Registration",
+        "month": "2022-07-01 00:00:00.000 UTC"
+      },
+      {
+        "actions": 25807,
+        "category": "Renewal",
+        "month": "2022-07-01 00:00:00.000 UTC"
+      },
+      {
+        "actions": 301693,
+        "category": "Registration",
+        "month": "2022-08-01 00:00:00.000 UTC"
+      },
+      {
+        "actions": 31464,
+        "category": "Renewal",
+        "month": "2022-08-01 00:00:00.000 UTC"
+      },
+      {
+        "actions": 437365,
+        "category": "Registration",
+        "month": "2022-09-01 00:00:00.000 UTC"
+      },
+      {
+        "actions": 48275,
+        "category": "Renewal",
+        "month": "2022-09-01 00:00:00.000 UTC"
+      },
+      {
+        "actions": 174204,
+        "category": "Registration",
+        "month": "2022-10-01 00:00:00.000 UTC"
+      },
+      {
+        "actions": 42642,
+        "category": "Renewal",
+        "month": "2022-10-01 00:00:00.000 UTC"
+      },
+      {
+        "actions": 70127,
+        "category": "Registration",
+        "month": "2022-11-01 00:00:00.000 UTC"
+      },
+      {
+        "actions": 23671,
+        "category": "Renewal",
+        "month": "2022-11-01 00:00:00.000 UTC"
+      },
+      {
+        "actions": 52835,
+        "category": "Registration",
+        "month": "2022-12-01 00:00:00.000 UTC"
+      },
+      {
+        "actions": 20986,
+        "category": "Renewal",
+        "month": "2022-12-01 00:00:00.000 UTC"
+      },
+      {
+        "actions": 56820,
+        "category": "Registration",
+        "month": "2023-01-01 00:00:00.000 UTC"
+      },
+      {
+        "actions": 33482,
+        "category": "Renewal",
+        "month": "2023-01-01 00:00:00.000 UTC"
+      },
+      {
+        "actions": 40480,
+        "category": "Registration",
+        "month": "2023-02-01 00:00:00.000 UTC"
+      },
+      {
+        "actions": 30760,
+        "category": "Renewal",
+        "month": "2023-02-01 00:00:00.000 UTC"
+      },
+      {
+        "actions": 41859,
+        "category": "Registration",
+        "month": "2023-03-01 00:00:00.000 UTC"
+      },
+      {
+        "actions": 30858,
+        "category": "Renewal",
+        "month": "2023-03-01 00:00:00.000 UTC"
+      },
+      {
+        "actions": 171,
+        "category": "Premium",
+        "month": "2023-04-01 00:00:00.000 UTC"
+      },
+      {
+        "actions": 26978,
+        "category": "Registration",
+        "month": "2023-04-01 00:00:00.000 UTC"
+      },
+      {
+        "actions": 39180,
+        "category": "Renewal",
+        "month": "2023-04-01 00:00:00.000 UTC"
+      },
+      {
+        "actions": 377,
+        "category": "Premium",
+        "month": "2023-05-01 00:00:00.000 UTC"
+      },
+      {
+        "actions": 15974,
+        "category": "Registration",
+        "month": "2023-05-01 00:00:00.000 UTC"
+      },
+      {
+        "actions": 27518,
+        "category": "Renewal",
+        "month": "2023-05-01 00:00:00.000 UTC"
+      },
+      {
+        "actions": 625,
+        "category": "Premium",
+        "month": "2023-06-01 00:00:00.000 UTC"
+      },
+      {
+        "actions": 35338,
+        "category": "Registration",
+        "month": "2023-06-01 00:00:00.000 UTC"
+      },
+      {
+        "actions": 40794,
+        "category": "Renewal",
+        "month": "2023-06-01 00:00:00.000 UTC"
+      },
+      {
+        "actions": 594,
+        "category": "Premium",
+        "month": "2023-07-01 00:00:00.000 UTC"
+      },
+      {
+        "actions": 30435,
+        "category": "Registration",
+        "month": "2023-07-01 00:00:00.000 UTC"
+      },
+      {
+        "actions": 39697,
+        "category": "Renewal",
+        "month": "2023-07-01 00:00:00.000 UTC"
+      },
+      {
+        "actions": 2098,
+        "category": "Premium",
+        "month": "2023-08-01 00:00:00.000 UTC"
+      },
+      {
+        "actions": 40173,
+        "category": "Registration",
+        "month": "2023-08-01 00:00:00.000 UTC"
+      },
+      {
+        "actions": 30025,
+        "category": "Renewal",
+        "month": "2023-08-01 00:00:00.000 UTC"
+      },
+      {
+        "actions": 842,
+        "category": "Premium",
+        "month": "2023-09-01 00:00:00.000 UTC"
+      },
+      {
+        "actions": 33446,
+        "category": "Registration",
+        "month": "2023-09-01 00:00:00.000 UTC"
+      },
+      {
+        "actions": 34581,
+        "category": "Renewal",
+        "month": "2023-09-01 00:00:00.000 UTC"
+      },
+      {
+        "actions": 702,
+        "category": "Premium",
+        "month": "2023-10-01 00:00:00.000 UTC"
+      },
+      {
+        "actions": 56167,
+        "category": "Registration",
+        "month": "2023-10-01 00:00:00.000 UTC"
+      },
+      {
+        "actions": 29374,
+        "category": "Renewal",
+        "month": "2023-10-01 00:00:00.000 UTC"
+      },
+      {
+        "actions": 475,
+        "category": "Premium",
+        "month": "2023-11-01 00:00:00.000 UTC"
+      },
+      {
+        "actions": 20402,
+        "category": "Registration",
+        "month": "2023-11-01 00:00:00.000 UTC"
+      },
+      {
+        "actions": 21317,
+        "category": "Renewal",
+        "month": "2023-11-01 00:00:00.000 UTC"
+      },
+      {
+        "actions": 635,
+        "category": "Premium",
+        "month": "2023-12-01 00:00:00.000 UTC"
+      },
+      {
+        "actions": 22824,
+        "category": "Registration",
+        "month": "2023-12-01 00:00:00.000 UTC"
+      },
+      {
+        "actions": 24679,
+        "category": "Renewal",
+        "month": "2023-12-01 00:00:00.000 UTC"
+      },
+      {
+        "actions": 700,
+        "category": "Premium",
+        "month": "2024-01-01 00:00:00.000 UTC"
+      },
+      {
+        "actions": 39095,
+        "category": "Registration",
+        "month": "2024-01-01 00:00:00.000 UTC"
+      },
+      {
+        "actions": 23814,
+        "category": "Renewal",
+        "month": "2024-01-01 00:00:00.000 UTC"
+      },
+      {
+        "actions": 349,
+        "category": "Premium",
+        "month": "2024-02-01 00:00:00.000 UTC"
+      },
+      {
+        "actions": 38293,
+        "category": "Registration",
+        "month": "2024-02-01 00:00:00.000 UTC"
+      },
+      {
+        "actions": 17532,
+        "category": "Renewal",
+        "month": "2024-02-01 00:00:00.000 UTC"
+      },
+      {
+        "actions": 309,
+        "category": "Premium",
+        "month": "2024-03-01 00:00:00.000 UTC"
+      },
+      {
+        "actions": 20740,
+        "category": "Registration",
+        "month": "2024-03-01 00:00:00.000 UTC"
+      },
+      {
+        "actions": 20169,
+        "category": "Renewal",
+        "month": "2024-03-01 00:00:00.000 UTC"
+      },
+      {
+        "actions": 239,
+        "category": "Premium",
+        "month": "2024-04-01 00:00:00.000 UTC"
+      },
+      {
+        "actions": 47465,
+        "category": "Registration",
+        "month": "2024-04-01 00:00:00.000 UTC"
+      },
+      {
+        "actions": 33144,
+        "category": "Renewal",
+        "month": "2024-04-01 00:00:00.000 UTC"
+      },
+      {
+        "actions": 303,
+        "category": "Premium",
+        "month": "2024-05-01 00:00:00.000 UTC"
+      },
+      {
+        "actions": 28646,
+        "category": "Registration",
+        "month": "2024-05-01 00:00:00.000 UTC"
+      },
+      {
+        "actions": 29496,
+        "category": "Renewal",
+        "month": "2024-05-01 00:00:00.000 UTC"
+      },
+      {
+        "actions": 639,
+        "category": "Premium",
+        "month": "2024-06-01 00:00:00.000 UTC"
+      },
+      {
+        "actions": 19492,
+        "category": "Registration",
+        "month": "2024-06-01 00:00:00.000 UTC"
+      },
+      {
+        "actions": 19881,
+        "category": "Renewal",
+        "month": "2024-06-01 00:00:00.000 UTC"
+      },
+      {
+        "actions": 491,
+        "category": "Premium",
+        "month": "2024-07-01 00:00:00.000 UTC"
+      },
+      {
+        "actions": 14506,
+        "category": "Registration",
+        "month": "2024-07-01 00:00:00.000 UTC"
+      },
+      {
+        "actions": 25231,
+        "category": "Renewal",
+        "month": "2024-07-01 00:00:00.000 UTC"
+      },
+      {
+        "actions": 2413,
+        "category": "Premium",
+        "month": "2024-08-01 00:00:00.000 UTC"
+      },
+      {
+        "actions": 17789,
+        "category": "Registration",
+        "month": "2024-08-01 00:00:00.000 UTC"
+      },
+      {
+        "actions": 21194,
+        "category": "Renewal",
+        "month": "2024-08-01 00:00:00.000 UTC"
+      },
+      {
+        "actions": 856,
+        "category": "Premium",
+        "month": "2024-09-01 00:00:00.000 UTC"
+      },
+      {
+        "actions": 14713,
+        "category": "Registration",
+        "month": "2024-09-01 00:00:00.000 UTC"
+      },
+      {
+        "actions": 18458,
+        "category": "Renewal",
+        "month": "2024-09-01 00:00:00.000 UTC"
+      },
+      {
+        "actions": 1003,
+        "category": "Premium",
+        "month": "2024-10-01 00:00:00.000 UTC"
+      },
+      {
+        "actions": 12326,
+        "category": "Registration",
+        "month": "2024-10-01 00:00:00.000 UTC"
+      },
+      {
+        "actions": 16113,
+        "category": "Renewal",
+        "month": "2024-10-01 00:00:00.000 UTC"
+      },
+      {
+        "actions": 536,
+        "category": "Premium",
+        "month": "2024-11-01 00:00:00.000 UTC"
+      },
+      {
+        "actions": 8139,
+        "category": "Registration",
+        "month": "2024-11-01 00:00:00.000 UTC"
+      },
+      {
+        "actions": 15457,
+        "category": "Renewal",
+        "month": "2024-11-01 00:00:00.000 UTC"
+      },
+      {
+        "actions": 892,
+        "category": "Premium",
+        "month": "2024-12-01 00:00:00.000 UTC"
+      },
+      {
+        "actions": 18247,
+        "category": "Registration",
+        "month": "2024-12-01 00:00:00.000 UTC"
+      },
+      {
+        "actions": 23658,
+        "category": "Renewal",
+        "month": "2024-12-01 00:00:00.000 UTC"
+      },
+      {
+        "actions": 598,
+        "category": "Premium",
+        "month": "2025-01-01 00:00:00.000 UTC"
+      },
+      {
+        "actions": 15257,
+        "category": "Registration",
+        "month": "2025-01-01 00:00:00.000 UTC"
+      },
+      {
+        "actions": 20615,
+        "category": "Renewal",
+        "month": "2025-01-01 00:00:00.000 UTC"
+      },
+      {
+        "actions": 604,
+        "category": "Premium",
+        "month": "2025-02-01 00:00:00.000 UTC"
+      },
+      {
+        "actions": 22039,
+        "category": "Registration",
+        "month": "2025-02-01 00:00:00.000 UTC"
+      },
+      {
+        "actions": 18382,
+        "category": "Renewal",
+        "month": "2025-02-01 00:00:00.000 UTC"
+      },
+      {
+        "actions": 453,
+        "category": "Premium",
+        "month": "2025-03-01 00:00:00.000 UTC"
+      },
+      {
+        "actions": 14924,
+        "category": "Registration",
+        "month": "2025-03-01 00:00:00.000 UTC"
+      },
+      {
+        "actions": 19573,
+        "category": "Renewal",
+        "month": "2025-03-01 00:00:00.000 UTC"
+      },
+      {
+        "actions": 478,
+        "category": "Premium",
+        "month": "2025-04-01 00:00:00.000 UTC"
+      },
+      {
+        "actions": 10823,
+        "category": "Registration",
+        "month": "2025-04-01 00:00:00.000 UTC"
+      },
+      {
+        "actions": 17800,
+        "category": "Renewal",
+        "month": "2025-04-01 00:00:00.000 UTC"
+      },
+      {
+        "actions": 501,
+        "category": "Premium",
+        "month": "2025-05-01 00:00:00.000 UTC"
+      },
+      {
+        "actions": 10859,
+        "category": "Registration",
+        "month": "2025-05-01 00:00:00.000 UTC"
+      },
+      {
+        "actions": 24309,
+        "category": "Renewal",
+        "month": "2025-05-01 00:00:00.000 UTC"
+      },
+      {
+        "actions": 95,
+        "category": "Premium",
+        "month": "2025-06-01 00:00:00.000 UTC"
+      },
+      {
+        "actions": 11740,
+        "category": "Registration",
+        "month": "2025-06-01 00:00:00.000 UTC"
+      },
+      {
+        "actions": 20043,
+        "category": "Renewal",
+        "month": "2025-06-01 00:00:00.000 UTC"
+      },
+      {
+        "actions": 406,
+        "category": "Premium",
+        "month": "2025-07-01 00:00:00.000 UTC"
+      },
+      {
+        "actions": 34155,
+        "category": "Registration",
+        "month": "2025-07-01 00:00:00.000 UTC"
+      },
+      {
+        "actions": 42926,
+        "category": "Renewal",
+        "month": "2025-07-01 00:00:00.000 UTC"
+      },
+      {
+        "actions": 2648,
+        "category": "Premium",
+        "month": "2025-08-01 00:00:00.000 UTC"
+      },
+      {
+        "actions": 39809,
+        "category": "Registration",
+        "month": "2025-08-01 00:00:00.000 UTC"
+      },
+      {
+        "actions": 35469,
+        "category": "Renewal",
+        "month": "2025-08-01 00:00:00.000 UTC"
+      },
+      {
+        "actions": 418,
+        "category": "Premium",
+        "month": "2025-09-01 00:00:00.000 UTC"
+      },
+      {
+        "actions": 13479,
+        "category": "Registration",
+        "month": "2025-09-01 00:00:00.000 UTC"
+      },
+      {
+        "actions": 26786,
+        "category": "Renewal",
+        "month": "2025-09-01 00:00:00.000 UTC"
+      },
+      {
+        "actions": 61,
+        "category": "Premium",
+        "month": "2025-10-01 00:00:00.000 UTC"
+      },
+      {
+        "actions": 12592,
+        "category": "Registration",
+        "month": "2025-10-01 00:00:00.000 UTC"
+      },
+      {
+        "actions": 19891,
+        "category": "Renewal",
+        "month": "2025-10-01 00:00:00.000 UTC"
+      },
+      {
+        "actions": 103,
+        "category": "Premium",
+        "month": "2025-11-01 00:00:00.000 UTC"
+      },
+      {
+        "actions": 10609,
+        "category": "Registration",
+        "month": "2025-11-01 00:00:00.000 UTC"
+      },
+      {
+        "actions": 18678,
+        "category": "Renewal",
+        "month": "2025-11-01 00:00:00.000 UTC"
+      },
+      {
+        "actions": 1042,
+        "category": "Premium",
+        "month": "2025-12-01 00:00:00.000 UTC"
+      },
+      {
+        "actions": 7944,
+        "category": "Registration",
+        "month": "2025-12-01 00:00:00.000 UTC"
+      },
+      {
+        "actions": 23732,
+        "category": "Renewal",
+        "month": "2025-12-01 00:00:00.000 UTC"
+      },
+      {
+        "actions": 1140,
+        "category": "Premium",
+        "month": "2026-01-01 00:00:00.000 UTC"
+      },
+      {
+        "actions": 10253,
+        "category": "Registration",
+        "month": "2026-01-01 00:00:00.000 UTC"
+      },
+      {
+        "actions": 27800,
+        "category": "Renewal",
+        "month": "2026-01-01 00:00:00.000 UTC"
+      },
+      {
+        "actions": 819,
+        "category": "Premium",
+        "month": "2026-02-01 00:00:00.000 UTC"
+      },
+      {
+        "actions": 10456,
+        "category": "Registration",
+        "month": "2026-02-01 00:00:00.000 UTC"
+      },
+      {
+        "actions": 21167,
+        "category": "Renewal",
+        "month": "2026-02-01 00:00:00.000 UTC"
+      },
+      {
+        "actions": 586,
+        "category": "Premium",
+        "month": "2026-03-01 00:00:00.000 UTC"
+      },
+      {
+        "actions": 6124,
+        "category": "Registration",
+        "month": "2026-03-01 00:00:00.000 UTC"
+      },
+      {
+        "actions": 13345,
+        "category": "Renewal",
+        "month": "2026-03-01 00:00:00.000 UTC"
+      }
+    ]
+  },
+  "is_execution_finished": true
+}
