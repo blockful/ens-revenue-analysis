@@ -1,0 +1,573 @@
+{
+  "query_id": 0,
+  "state": "QUERY_STATE_COMPLETED",
+  "submitted_at": "2026-04-20T13:45:40.156021Z",
+  "expires_at": "2026-07-19T13:45:50.137515Z",
+  "execution_started_at": "2026-04-20T13:45:41.53086Z",
+  "execution_ended_at": "2026-04-20T13:45:50.137504Z",
+  "result": {
+    "metadata": {
+      "column_names": [
+        "expiry_month",
+        "terms_expiring",
+        "renewed_count",
+        "churned_count",
+        "renewal_rate_pct"
+      ],
+      "result_set_bytes": 5369,
+      "row_count": 78,
+      "total_result_set_bytes": 3744,
+      "total_row_count": 78,
+      "datapoint_count": 390
+    },
+    "rows": [
+      {
+        "churned_count": 3,
+        "expiry_month": "2019-06-01 00:00:00.000 UTC",
+        "renewal_rate_pct": "40.000000000000000",
+        "renewed_count": 2,
+        "terms_expiring": 5
+      },
+      {
+        "churned_count": 4,
+        "expiry_month": "2019-07-01 00:00:00.000 UTC",
+        "renewal_rate_pct": "0.000000000000000",
+        "renewed_count": 0,
+        "terms_expiring": 4
+      },
+      {
+        "churned_count": 1,
+        "expiry_month": "2019-08-01 00:00:00.000 UTC",
+        "renewal_rate_pct": "85.710000000000000",
+        "renewed_count": 6,
+        "terms_expiring": 7
+      },
+      {
+        "churned_count": 3,
+        "expiry_month": "2019-09-01 00:00:00.000 UTC",
+        "renewal_rate_pct": "40.000000000000000",
+        "renewed_count": 2,
+        "terms_expiring": 5
+      },
+      {
+        "churned_count": 0,
+        "expiry_month": "2019-10-01 00:00:00.000 UTC",
+        "renewal_rate_pct": "100.000000000000000",
+        "renewed_count": 2,
+        "terms_expiring": 2
+      },
+      {
+        "churned_count": 1,
+        "expiry_month": "2019-11-01 00:00:00.000 UTC",
+        "renewal_rate_pct": "50.000000000000000",
+        "renewed_count": 1,
+        "terms_expiring": 2
+      },
+      {
+        "churned_count": 3,
+        "expiry_month": "2019-12-01 00:00:00.000 UTC",
+        "renewal_rate_pct": "93.620000000000000",
+        "renewed_count": 44,
+        "terms_expiring": 47
+      },
+      {
+        "churned_count": 39,
+        "expiry_month": "2020-03-01 00:00:00.000 UTC",
+        "renewal_rate_pct": "7.140000000000000",
+        "renewed_count": 3,
+        "terms_expiring": 42
+      },
+      {
+        "churned_count": 1,
+        "expiry_month": "2020-04-01 00:00:00.000 UTC",
+        "renewal_rate_pct": "0.000000000000000",
+        "renewed_count": 0,
+        "terms_expiring": 1
+      },
+      {
+        "churned_count": 1665,
+        "expiry_month": "2020-05-01 00:00:00.000 UTC",
+        "renewal_rate_pct": "37.360000000000000",
+        "renewed_count": 993,
+        "terms_expiring": 2658
+      },
+      {
+        "churned_count": 1536,
+        "expiry_month": "2020-06-01 00:00:00.000 UTC",
+        "renewal_rate_pct": "30.250000000000000",
+        "renewed_count": 666,
+        "terms_expiring": 2202
+      },
+      {
+        "churned_count": 1185,
+        "expiry_month": "2020-07-01 00:00:00.000 UTC",
+        "renewal_rate_pct": "30.090000000000000",
+        "renewed_count": 510,
+        "terms_expiring": 1695
+      },
+      {
+        "churned_count": 466,
+        "expiry_month": "2020-08-01 00:00:00.000 UTC",
+        "renewal_rate_pct": "55.620000000000000",
+        "renewed_count": 584,
+        "terms_expiring": 1050
+      },
+      {
+        "churned_count": 747,
+        "expiry_month": "2020-09-01 00:00:00.000 UTC",
+        "renewal_rate_pct": "39.660000000000000",
+        "renewed_count": 491,
+        "terms_expiring": 1238
+      },
+      {
+        "churned_count": 1859,
+        "expiry_month": "2020-10-01 00:00:00.000 UTC",
+        "renewal_rate_pct": "44.900000000000000",
+        "renewed_count": 1515,
+        "terms_expiring": 3374
+      },
+      {
+        "churned_count": 6053,
+        "expiry_month": "2020-11-01 00:00:00.000 UTC",
+        "renewal_rate_pct": "51.230000000000000",
+        "renewed_count": 6359,
+        "terms_expiring": 12412
+      },
+      {
+        "churned_count": 2065,
+        "expiry_month": "2020-12-01 00:00:00.000 UTC",
+        "renewal_rate_pct": "38.980000000000000",
+        "renewed_count": 1319,
+        "terms_expiring": 3384
+      },
+      {
+        "churned_count": 1606,
+        "expiry_month": "2021-01-01 00:00:00.000 UTC",
+        "renewal_rate_pct": "39.710000000000000",
+        "renewed_count": 1058,
+        "terms_expiring": 2664
+      },
+      {
+        "churned_count": 1634,
+        "expiry_month": "2021-02-01 00:00:00.000 UTC",
+        "renewal_rate_pct": "39.140000000000000",
+        "renewed_count": 1051,
+        "terms_expiring": 2685
+      },
+      {
+        "churned_count": 989,
+        "expiry_month": "2021-03-01 00:00:00.000 UTC",
+        "renewal_rate_pct": "35.740000000000000",
+        "renewed_count": 550,
+        "terms_expiring": 1539
+      },
+      {
+        "churned_count": 1490,
+        "expiry_month": "2021-04-01 00:00:00.000 UTC",
+        "renewal_rate_pct": "33.030000000000000",
+        "renewed_count": 735,
+        "terms_expiring": 2225
+      },
+      {
+        "churned_count": 10365,
+        "expiry_month": "2021-05-01 00:00:00.000 UTC",
+        "renewal_rate_pct": "67.000000000000000",
+        "renewed_count": 21042,
+        "terms_expiring": 31407
+      },
+      {
+        "churned_count": 1540,
+        "expiry_month": "2021-06-01 00:00:00.000 UTC",
+        "renewal_rate_pct": "40.240000000000000",
+        "renewed_count": 1037,
+        "terms_expiring": 2577
+      },
+      {
+        "churned_count": 1142,
+        "expiry_month": "2021-07-01 00:00:00.000 UTC",
+        "renewal_rate_pct": "57.770000000000000",
+        "renewed_count": 1562,
+        "terms_expiring": 2704
+      },
+      {
+        "churned_count": 1382,
+        "expiry_month": "2021-08-01 00:00:00.000 UTC",
+        "renewal_rate_pct": "75.940000000000000",
+        "renewed_count": 4361,
+        "terms_expiring": 5743
+      },
+      {
+        "churned_count": 1352,
+        "expiry_month": "2021-09-01 00:00:00.000 UTC",
+        "renewal_rate_pct": "73.040000000000000",
+        "renewed_count": 3662,
+        "terms_expiring": 5014
+      },
+      {
+        "churned_count": 2651,
+        "expiry_month": "2021-10-01 00:00:00.000 UTC",
+        "renewal_rate_pct": "74.860000000000000",
+        "renewed_count": 7894,
+        "terms_expiring": 10545
+      },
+      {
+        "churned_count": 2282,
+        "expiry_month": "2021-11-01 00:00:00.000 UTC",
+        "renewal_rate_pct": "76.940000000000000",
+        "renewed_count": 7614,
+        "terms_expiring": 9896
+      },
+      {
+        "churned_count": 1930,
+        "expiry_month": "2021-12-01 00:00:00.000 UTC",
+        "renewal_rate_pct": "65.000000000000000",
+        "renewed_count": 3584,
+        "terms_expiring": 5514
+      },
+      {
+        "churned_count": 1798,
+        "expiry_month": "2022-01-01 00:00:00.000 UTC",
+        "renewal_rate_pct": "64.260000000000000",
+        "renewed_count": 3233,
+        "terms_expiring": 5031
+      },
+      {
+        "churned_count": 1433,
+        "expiry_month": "2022-02-01 00:00:00.000 UTC",
+        "renewal_rate_pct": "68.740000000000000",
+        "renewed_count": 3151,
+        "terms_expiring": 4584
+      },
+      {
+        "churned_count": 1723,
+        "expiry_month": "2022-03-01 00:00:00.000 UTC",
+        "renewal_rate_pct": "60.680000000000000",
+        "renewed_count": 2659,
+        "terms_expiring": 4382
+      },
+      {
+        "churned_count": 1741,
+        "expiry_month": "2022-04-01 00:00:00.000 UTC",
+        "renewal_rate_pct": "57.450000000000000",
+        "renewed_count": 2351,
+        "terms_expiring": 4092
+      },
+      {
+        "churned_count": 7450,
+        "expiry_month": "2022-05-01 00:00:00.000 UTC",
+        "renewal_rate_pct": "70.960000000000000",
+        "renewed_count": 18207,
+        "terms_expiring": 25657
+      },
+      {
+        "churned_count": 15647,
+        "expiry_month": "2022-06-01 00:00:00.000 UTC",
+        "renewal_rate_pct": "53.920000000000000",
+        "renewed_count": 18307,
+        "terms_expiring": 33954
+      },
+      {
+        "churned_count": 15492,
+        "expiry_month": "2022-07-01 00:00:00.000 UTC",
+        "renewal_rate_pct": "53.230000000000000",
+        "renewed_count": 17632,
+        "terms_expiring": 33124
+      },
+      {
+        "churned_count": 45590,
+        "expiry_month": "2022-08-01 00:00:00.000 UTC",
+        "renewal_rate_pct": "38.370000000000000",
+        "renewed_count": 28379,
+        "terms_expiring": 73969
+      },
+      {
+        "churned_count": 26876,
+        "expiry_month": "2022-09-01 00:00:00.000 UTC",
+        "renewal_rate_pct": "55.810000000000000",
+        "renewed_count": 33937,
+        "terms_expiring": 60813
+      },
+      {
+        "churned_count": 86931,
+        "expiry_month": "2022-10-01 00:00:00.000 UTC",
+        "renewal_rate_pct": "35.370000000000000",
+        "renewed_count": 47580,
+        "terms_expiring": 134511
+      },
+      {
+        "churned_count": 60959,
+        "expiry_month": "2022-11-01 00:00:00.000 UTC",
+        "renewal_rate_pct": "33.920000000000000",
+        "renewed_count": 31286,
+        "terms_expiring": 92245
+      },
+      {
+        "churned_count": 66735,
+        "expiry_month": "2022-12-01 00:00:00.000 UTC",
+        "renewal_rate_pct": "25.730000000000000",
+        "renewed_count": 23121,
+        "terms_expiring": 89856
+      },
+      {
+        "churned_count": 44049,
+        "expiry_month": "2023-01-01 00:00:00.000 UTC",
+        "renewal_rate_pct": "28.350000000000000",
+        "renewed_count": 17427,
+        "terms_expiring": 61476
+      },
+      {
+        "churned_count": 40066,
+        "expiry_month": "2023-02-01 00:00:00.000 UTC",
+        "renewal_rate_pct": "28.930000000000000",
+        "renewed_count": 16309,
+        "terms_expiring": 56375
+      },
+      {
+        "churned_count": 48672,
+        "expiry_month": "2023-03-01 00:00:00.000 UTC",
+        "renewal_rate_pct": "26.650000000000000",
+        "renewed_count": 17687,
+        "terms_expiring": 66359
+      },
+      {
+        "churned_count": 63059,
+        "expiry_month": "2023-04-01 00:00:00.000 UTC",
+        "renewal_rate_pct": "36.510000000000000",
+        "renewed_count": 36259,
+        "terms_expiring": 99318
+      },
+      {
+        "churned_count": 160429,
+        "expiry_month": "2023-05-01 00:00:00.000 UTC",
+        "renewal_rate_pct": "32.370000000000000",
+        "renewed_count": 76776,
+        "terms_expiring": 237205
+      },
+      {
+        "churned_count": 61517,
+        "expiry_month": "2023-06-01 00:00:00.000 UTC",
+        "renewal_rate_pct": "29.180000000000000",
+        "renewed_count": 25341,
+        "terms_expiring": 86858
+      },
+      {
+        "churned_count": 174816,
+        "expiry_month": "2023-07-01 00:00:00.000 UTC",
+        "renewal_rate_pct": "18.670000000000000",
+        "renewed_count": 40124,
+        "terms_expiring": 214940
+      },
+      {
+        "churned_count": 151442,
+        "expiry_month": "2023-08-01 00:00:00.000 UTC",
+        "renewal_rate_pct": "19.680000000000000",
+        "renewed_count": 37107,
+        "terms_expiring": 188549
+      },
+      {
+        "churned_count": 193017,
+        "expiry_month": "2023-09-01 00:00:00.000 UTC",
+        "renewal_rate_pct": "15.710000000000000",
+        "renewed_count": 35965,
+        "terms_expiring": 228982
+      },
+      {
+        "churned_count": 92976,
+        "expiry_month": "2023-10-01 00:00:00.000 UTC",
+        "renewal_rate_pct": "22.270000000000000",
+        "renewed_count": 26641,
+        "terms_expiring": 119617
+      },
+      {
+        "churned_count": 50443,
+        "expiry_month": "2023-11-01 00:00:00.000 UTC",
+        "renewal_rate_pct": "30.970000000000000",
+        "renewed_count": 22631,
+        "terms_expiring": 73074
+      },
+      {
+        "churned_count": 45342,
+        "expiry_month": "2023-12-01 00:00:00.000 UTC",
+        "renewal_rate_pct": "28.150000000000000",
+        "renewed_count": 17767,
+        "terms_expiring": 63109
+      },
+      {
+        "churned_count": 43312,
+        "expiry_month": "2024-01-01 00:00:00.000 UTC",
+        "renewal_rate_pct": "30.280000000000000",
+        "renewed_count": 18810,
+        "terms_expiring": 62122
+      },
+      {
+        "churned_count": 36479,
+        "expiry_month": "2024-02-01 00:00:00.000 UTC",
+        "renewal_rate_pct": "29.120000000000000",
+        "renewed_count": 14986,
+        "terms_expiring": 51465
+      },
+      {
+        "churned_count": 43178,
+        "expiry_month": "2024-03-01 00:00:00.000 UTC",
+        "renewal_rate_pct": "31.310000000000000",
+        "renewed_count": 19680,
+        "terms_expiring": 62858
+      },
+      {
+        "churned_count": 47724,
+        "expiry_month": "2024-04-01 00:00:00.000 UTC",
+        "renewal_rate_pct": "33.740000000000000",
+        "renewed_count": 24306,
+        "terms_expiring": 72030
+      },
+      {
+        "churned_count": 81442,
+        "expiry_month": "2024-05-01 00:00:00.000 UTC",
+        "renewal_rate_pct": "31.020000000000000",
+        "renewed_count": 36623,
+        "terms_expiring": 118065
+      },
+      {
+        "churned_count": 49790,
+        "expiry_month": "2024-06-01 00:00:00.000 UTC",
+        "renewal_rate_pct": "29.120000000000000",
+        "renewed_count": 20452,
+        "terms_expiring": 70242
+      },
+      {
+        "churned_count": 72466,
+        "expiry_month": "2024-07-01 00:00:00.000 UTC",
+        "renewal_rate_pct": "25.780000000000000",
+        "renewed_count": 25174,
+        "terms_expiring": 97640
+      },
+      {
+        "churned_count": 64092,
+        "expiry_month": "2024-08-01 00:00:00.000 UTC",
+        "renewal_rate_pct": "27.810000000000000",
+        "renewed_count": 24693,
+        "terms_expiring": 88785
+      },
+      {
+        "churned_count": 60230,
+        "expiry_month": "2024-09-01 00:00:00.000 UTC",
+        "renewal_rate_pct": "28.460000000000000",
+        "renewed_count": 23959,
+        "terms_expiring": 84189
+      },
+      {
+        "churned_count": 58280,
+        "expiry_month": "2024-10-01 00:00:00.000 UTC",
+        "renewal_rate_pct": "27.750000000000000",
+        "renewed_count": 22384,
+        "terms_expiring": 80664
+      },
+      {
+        "churned_count": 31881,
+        "expiry_month": "2024-11-01 00:00:00.000 UTC",
+        "renewal_rate_pct": "35.540000000000000",
+        "renewed_count": 17575,
+        "terms_expiring": 49456
+      },
+      {
+        "churned_count": 38736,
+        "expiry_month": "2024-12-01 00:00:00.000 UTC",
+        "renewal_rate_pct": "33.640000000000000",
+        "renewed_count": 19633,
+        "terms_expiring": 58369
+      },
+      {
+        "churned_count": 41714,
+        "expiry_month": "2025-01-01 00:00:00.000 UTC",
+        "renewal_rate_pct": "34.230000000000000",
+        "renewed_count": 21713,
+        "terms_expiring": 63427
+      },
+      {
+        "churned_count": 40984,
+        "expiry_month": "2025-02-01 00:00:00.000 UTC",
+        "renewal_rate_pct": "31.750000000000000",
+        "renewed_count": 19064,
+        "terms_expiring": 60048
+      },
+      {
+        "churned_count": 36944,
+        "expiry_month": "2025-03-01 00:00:00.000 UTC",
+        "renewal_rate_pct": "34.850000000000000",
+        "renewed_count": 19764,
+        "terms_expiring": 56708
+      },
+      {
+        "churned_count": 57367,
+        "expiry_month": "2025-04-01 00:00:00.000 UTC",
+        "renewal_rate_pct": "32.030000000000000",
+        "renewed_count": 27032,
+        "terms_expiring": 84399
+      },
+      {
+        "churned_count": 68386,
+        "expiry_month": "2025-05-01 00:00:00.000 UTC",
+        "renewal_rate_pct": "35.210000000000000",
+        "renewed_count": 37162,
+        "terms_expiring": 105548
+      },
+      {
+        "churned_count": 34604,
+        "expiry_month": "2025-06-01 00:00:00.000 UTC",
+        "renewal_rate_pct": "41.660000000000000",
+        "renewed_count": 24711,
+        "terms_expiring": 59315
+      },
+      {
+        "churned_count": 46726,
+        "expiry_month": "2025-07-01 00:00:00.000 UTC",
+        "renewal_rate_pct": "35.760000000000000",
+        "renewed_count": 26010,
+        "terms_expiring": 72736
+      },
+      {
+        "churned_count": 50530,
+        "expiry_month": "2025-08-01 00:00:00.000 UTC",
+        "renewal_rate_pct": "38.470000000000000",
+        "renewed_count": 31590,
+        "terms_expiring": 82120
+      },
+      {
+        "churned_count": 50278,
+        "expiry_month": "2025-09-01 00:00:00.000 UTC",
+        "renewal_rate_pct": "36.770000000000000",
+        "renewed_count": 29234,
+        "terms_expiring": 79512
+      },
+      {
+        "churned_count": 36237,
+        "expiry_month": "2025-10-01 00:00:00.000 UTC",
+        "renewal_rate_pct": "46.770000000000000",
+        "renewed_count": 31843,
+        "terms_expiring": 68080
+      },
+      {
+        "churned_count": 27998,
+        "expiry_month": "2025-11-01 00:00:00.000 UTC",
+        "renewal_rate_pct": "44.580000000000000",
+        "renewed_count": 22522,
+        "terms_expiring": 50520
+      },
+      {
+        "churned_count": 35209,
+        "expiry_month": "2025-12-01 00:00:00.000 UTC",
+        "renewal_rate_pct": "41.780000000000000",
+        "renewed_count": 25262,
+        "terms_expiring": 60471
+      },
+      {
+        "churned_count": 22302,
+        "expiry_month": "2026-01-01 00:00:00.000 UTC",
+        "renewal_rate_pct": "46.990000000000000",
+        "renewed_count": 19766,
+        "terms_expiring": 42068
+      }
+    ]
+  },
+  "is_execution_finished": true
+}

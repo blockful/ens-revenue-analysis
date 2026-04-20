@@ -1,0 +1,445 @@
+{
+  "query_id": 0,
+  "state": "QUERY_STATE_COMPLETED",
+  "submitted_at": "2026-04-20T13:44:36.024623Z",
+  "expires_at": "2026-07-19T13:44:52.7938Z",
+  "execution_started_at": "2026-04-20T13:44:41.242127Z",
+  "execution_ended_at": "2026-04-20T13:44:52.79379Z",
+  "result": {
+    "metadata": {
+      "column_names": [
+        "month",
+        "new_wallets",
+        "cumulative_wallets"
+      ],
+      "result_set_bytes": 3652,
+      "row_count": 84,
+      "total_result_set_bytes": 2016,
+      "total_row_count": 84,
+      "datapoint_count": 252
+    },
+    "rows": [
+      {
+        "cumulative_wallets": 962,
+        "month": "2019-05-01 00:00:00.000 UTC",
+        "new_wallets": 962
+      },
+      {
+        "cumulative_wallets": 1426,
+        "month": "2019-06-01 00:00:00.000 UTC",
+        "new_wallets": 464
+      },
+      {
+        "cumulative_wallets": 1743,
+        "month": "2019-07-01 00:00:00.000 UTC",
+        "new_wallets": 317
+      },
+      {
+        "cumulative_wallets": 2000,
+        "month": "2019-08-01 00:00:00.000 UTC",
+        "new_wallets": 257
+      },
+      {
+        "cumulative_wallets": 2296,
+        "month": "2019-09-01 00:00:00.000 UTC",
+        "new_wallets": 296
+      },
+      {
+        "cumulative_wallets": 2968,
+        "month": "2019-10-01 00:00:00.000 UTC",
+        "new_wallets": 672
+      },
+      {
+        "cumulative_wallets": 5321,
+        "month": "2019-11-01 00:00:00.000 UTC",
+        "new_wallets": 2353
+      },
+      {
+        "cumulative_wallets": 6072,
+        "month": "2019-12-01 00:00:00.000 UTC",
+        "new_wallets": 751
+      },
+      {
+        "cumulative_wallets": 6855,
+        "month": "2020-01-01 00:00:00.000 UTC",
+        "new_wallets": 783
+      },
+      {
+        "cumulative_wallets": 7805,
+        "month": "2020-02-01 00:00:00.000 UTC",
+        "new_wallets": 950
+      },
+      {
+        "cumulative_wallets": 8466,
+        "month": "2020-03-01 00:00:00.000 UTC",
+        "new_wallets": 661
+      },
+      {
+        "cumulative_wallets": 9667,
+        "month": "2020-04-01 00:00:00.000 UTC",
+        "new_wallets": 1201
+      },
+      {
+        "cumulative_wallets": 11029,
+        "month": "2020-05-01 00:00:00.000 UTC",
+        "new_wallets": 1362
+      },
+      {
+        "cumulative_wallets": 11903,
+        "month": "2020-06-01 00:00:00.000 UTC",
+        "new_wallets": 874
+      },
+      {
+        "cumulative_wallets": 13243,
+        "month": "2020-07-01 00:00:00.000 UTC",
+        "new_wallets": 1340
+      },
+      {
+        "cumulative_wallets": 14723,
+        "month": "2020-08-01 00:00:00.000 UTC",
+        "new_wallets": 1480
+      },
+      {
+        "cumulative_wallets": 16392,
+        "month": "2020-09-01 00:00:00.000 UTC",
+        "new_wallets": 1669
+      },
+      {
+        "cumulative_wallets": 18222,
+        "month": "2020-10-01 00:00:00.000 UTC",
+        "new_wallets": 1830
+      },
+      {
+        "cumulative_wallets": 19400,
+        "month": "2020-11-01 00:00:00.000 UTC",
+        "new_wallets": 1178
+      },
+      {
+        "cumulative_wallets": 20864,
+        "month": "2020-12-01 00:00:00.000 UTC",
+        "new_wallets": 1464
+      },
+      {
+        "cumulative_wallets": 22999,
+        "month": "2021-01-01 00:00:00.000 UTC",
+        "new_wallets": 2135
+      },
+      {
+        "cumulative_wallets": 25564,
+        "month": "2021-02-01 00:00:00.000 UTC",
+        "new_wallets": 2565
+      },
+      {
+        "cumulative_wallets": 30006,
+        "month": "2021-03-01 00:00:00.000 UTC",
+        "new_wallets": 4442
+      },
+      {
+        "cumulative_wallets": 34881,
+        "month": "2021-04-01 00:00:00.000 UTC",
+        "new_wallets": 4875
+      },
+      {
+        "cumulative_wallets": 40837,
+        "month": "2021-05-01 00:00:00.000 UTC",
+        "new_wallets": 5956
+      },
+      {
+        "cumulative_wallets": 52595,
+        "month": "2021-06-01 00:00:00.000 UTC",
+        "new_wallets": 11758
+      },
+      {
+        "cumulative_wallets": 60968,
+        "month": "2021-07-01 00:00:00.000 UTC",
+        "new_wallets": 8373
+      },
+      {
+        "cumulative_wallets": 74961,
+        "month": "2021-08-01 00:00:00.000 UTC",
+        "new_wallets": 13993
+      },
+      {
+        "cumulative_wallets": 92022,
+        "month": "2021-09-01 00:00:00.000 UTC",
+        "new_wallets": 17061
+      },
+      {
+        "cumulative_wallets": 106355,
+        "month": "2021-10-01 00:00:00.000 UTC",
+        "new_wallets": 14333
+      },
+      {
+        "cumulative_wallets": 153438,
+        "month": "2021-11-01 00:00:00.000 UTC",
+        "new_wallets": 47083
+      },
+      {
+        "cumulative_wallets": 205328,
+        "month": "2021-12-01 00:00:00.000 UTC",
+        "new_wallets": 51890
+      },
+      {
+        "cumulative_wallets": 239356,
+        "month": "2022-01-01 00:00:00.000 UTC",
+        "new_wallets": 34028
+      },
+      {
+        "cumulative_wallets": 266289,
+        "month": "2022-02-01 00:00:00.000 UTC",
+        "new_wallets": 26933
+      },
+      {
+        "cumulative_wallets": 294209,
+        "month": "2022-03-01 00:00:00.000 UTC",
+        "new_wallets": 27920
+      },
+      {
+        "cumulative_wallets": 329028,
+        "month": "2022-04-01 00:00:00.000 UTC",
+        "new_wallets": 34819
+      },
+      {
+        "cumulative_wallets": 379344,
+        "month": "2022-05-01 00:00:00.000 UTC",
+        "new_wallets": 50316
+      },
+      {
+        "cumulative_wallets": 400544,
+        "month": "2022-06-01 00:00:00.000 UTC",
+        "new_wallets": 21200
+      },
+      {
+        "cumulative_wallets": 443079,
+        "month": "2022-07-01 00:00:00.000 UTC",
+        "new_wallets": 42535
+      },
+      {
+        "cumulative_wallets": 472373,
+        "month": "2022-08-01 00:00:00.000 UTC",
+        "new_wallets": 29294
+      },
+      {
+        "cumulative_wallets": 502959,
+        "month": "2022-09-01 00:00:00.000 UTC",
+        "new_wallets": 30586
+      },
+      {
+        "cumulative_wallets": 523566,
+        "month": "2022-10-01 00:00:00.000 UTC",
+        "new_wallets": 20607
+      },
+      {
+        "cumulative_wallets": 541661,
+        "month": "2022-11-01 00:00:00.000 UTC",
+        "new_wallets": 18095
+      },
+      {
+        "cumulative_wallets": 559161,
+        "month": "2022-12-01 00:00:00.000 UTC",
+        "new_wallets": 17500
+      },
+      {
+        "cumulative_wallets": 578290,
+        "month": "2023-01-01 00:00:00.000 UTC",
+        "new_wallets": 19129
+      },
+      {
+        "cumulative_wallets": 593383,
+        "month": "2023-02-01 00:00:00.000 UTC",
+        "new_wallets": 15093
+      },
+      {
+        "cumulative_wallets": 614010,
+        "month": "2023-03-01 00:00:00.000 UTC",
+        "new_wallets": 20627
+      },
+      {
+        "cumulative_wallets": 628436,
+        "month": "2023-04-01 00:00:00.000 UTC",
+        "new_wallets": 14426
+      },
+      {
+        "cumulative_wallets": 638434,
+        "month": "2023-05-01 00:00:00.000 UTC",
+        "new_wallets": 9998
+      },
+      {
+        "cumulative_wallets": 663956,
+        "month": "2023-06-01 00:00:00.000 UTC",
+        "new_wallets": 25522
+      },
+      {
+        "cumulative_wallets": 685020,
+        "month": "2023-07-01 00:00:00.000 UTC",
+        "new_wallets": 21064
+      },
+      {
+        "cumulative_wallets": 704250,
+        "month": "2023-08-01 00:00:00.000 UTC",
+        "new_wallets": 19230
+      },
+      {
+        "cumulative_wallets": 725279,
+        "month": "2023-09-01 00:00:00.000 UTC",
+        "new_wallets": 21029
+      },
+      {
+        "cumulative_wallets": 769396,
+        "month": "2023-10-01 00:00:00.000 UTC",
+        "new_wallets": 44117
+      },
+      {
+        "cumulative_wallets": 782296,
+        "month": "2023-11-01 00:00:00.000 UTC",
+        "new_wallets": 12900
+      },
+      {
+        "cumulative_wallets": 797798,
+        "month": "2023-12-01 00:00:00.000 UTC",
+        "new_wallets": 15502
+      },
+      {
+        "cumulative_wallets": 827855,
+        "month": "2024-01-01 00:00:00.000 UTC",
+        "new_wallets": 30057
+      },
+      {
+        "cumulative_wallets": 859888,
+        "month": "2024-02-01 00:00:00.000 UTC",
+        "new_wallets": 32033
+      },
+      {
+        "cumulative_wallets": 875645,
+        "month": "2024-03-01 00:00:00.000 UTC",
+        "new_wallets": 15757
+      },
+      {
+        "cumulative_wallets": 916085,
+        "month": "2024-04-01 00:00:00.000 UTC",
+        "new_wallets": 40440
+      },
+      {
+        "cumulative_wallets": 938438,
+        "month": "2024-05-01 00:00:00.000 UTC",
+        "new_wallets": 22353
+      },
+      {
+        "cumulative_wallets": 951831,
+        "month": "2024-06-01 00:00:00.000 UTC",
+        "new_wallets": 13393
+      },
+      {
+        "cumulative_wallets": 961116,
+        "month": "2024-07-01 00:00:00.000 UTC",
+        "new_wallets": 9285
+      },
+      {
+        "cumulative_wallets": 970414,
+        "month": "2024-08-01 00:00:00.000 UTC",
+        "new_wallets": 9298
+      },
+      {
+        "cumulative_wallets": 976876,
+        "month": "2024-09-01 00:00:00.000 UTC",
+        "new_wallets": 6462
+      },
+      {
+        "cumulative_wallets": 981839,
+        "month": "2024-10-01 00:00:00.000 UTC",
+        "new_wallets": 4963
+      },
+      {
+        "cumulative_wallets": 985608,
+        "month": "2024-11-01 00:00:00.000 UTC",
+        "new_wallets": 3769
+      },
+      {
+        "cumulative_wallets": 996350,
+        "month": "2024-12-01 00:00:00.000 UTC",
+        "new_wallets": 10742
+      },
+      {
+        "cumulative_wallets": 1004437,
+        "month": "2025-01-01 00:00:00.000 UTC",
+        "new_wallets": 8087
+      },
+      {
+        "cumulative_wallets": 1016890,
+        "month": "2025-02-01 00:00:00.000 UTC",
+        "new_wallets": 12453
+      },
+      {
+        "cumulative_wallets": 1024679,
+        "month": "2025-03-01 00:00:00.000 UTC",
+        "new_wallets": 7789
+      },
+      {
+        "cumulative_wallets": 1029454,
+        "month": "2025-04-01 00:00:00.000 UTC",
+        "new_wallets": 4775
+      },
+      {
+        "cumulative_wallets": 1033295,
+        "month": "2025-05-01 00:00:00.000 UTC",
+        "new_wallets": 3841
+      },
+      {
+        "cumulative_wallets": 1036908,
+        "month": "2025-06-01 00:00:00.000 UTC",
+        "new_wallets": 3613
+      },
+      {
+        "cumulative_wallets": 1044154,
+        "month": "2025-07-01 00:00:00.000 UTC",
+        "new_wallets": 7246
+      },
+      {
+        "cumulative_wallets": 1049348,
+        "month": "2025-08-01 00:00:00.000 UTC",
+        "new_wallets": 5194
+      },
+      {
+        "cumulative_wallets": 1052576,
+        "month": "2025-09-01 00:00:00.000 UTC",
+        "new_wallets": 3228
+      },
+      {
+        "cumulative_wallets": 1056379,
+        "month": "2025-10-01 00:00:00.000 UTC",
+        "new_wallets": 3803
+      },
+      {
+        "cumulative_wallets": 1059673,
+        "month": "2025-11-01 00:00:00.000 UTC",
+        "new_wallets": 3294
+      },
+      {
+        "cumulative_wallets": 1061831,
+        "month": "2025-12-01 00:00:00.000 UTC",
+        "new_wallets": 2158
+      },
+      {
+        "cumulative_wallets": 1063739,
+        "month": "2026-01-01 00:00:00.000 UTC",
+        "new_wallets": 1908
+      },
+      {
+        "cumulative_wallets": 1065343,
+        "month": "2026-02-01 00:00:00.000 UTC",
+        "new_wallets": 1604
+      },
+      {
+        "cumulative_wallets": 1066815,
+        "month": "2026-03-01 00:00:00.000 UTC",
+        "new_wallets": 1472
+      },
+      {
+        "cumulative_wallets": 1067761,
+        "month": "2026-04-01 00:00:00.000 UTC",
+        "new_wallets": 946
+      }
+    ]
+  },
+  "is_execution_finished": true
+}

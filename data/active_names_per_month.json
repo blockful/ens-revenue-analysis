@@ -1,0 +1,445 @@
+{
+  "query_id": 0,
+  "state": "QUERY_STATE_COMPLETED",
+  "submitted_at": "2026-04-20T13:45:17.405102Z",
+  "expires_at": "2026-07-19T13:45:29.842153Z",
+  "execution_started_at": "2026-04-20T13:45:19.131751Z",
+  "execution_ended_at": "2026-04-20T13:45:29.842141Z",
+  "result": {
+    "metadata": {
+      "column_names": [
+        "month",
+        "net_change",
+        "cumulative_active"
+      ],
+      "result_set_bytes": 3778,
+      "row_count": 84,
+      "total_result_set_bytes": 2016,
+      "total_row_count": 84,
+      "datapoint_count": 252
+    },
+    "rows": [
+      {
+        "cumulative_active": 3286,
+        "month": "2019-05-01 00:00:00.000 UTC",
+        "net_change": 3286
+      },
+      {
+        "cumulative_active": 5898,
+        "month": "2019-06-01 00:00:00.000 UTC",
+        "net_change": 2612
+      },
+      {
+        "cumulative_active": 7805,
+        "month": "2019-07-01 00:00:00.000 UTC",
+        "net_change": 1907
+      },
+      {
+        "cumulative_active": 9050,
+        "month": "2019-08-01 00:00:00.000 UTC",
+        "net_change": 1245
+      },
+      {
+        "cumulative_active": 10289,
+        "month": "2019-09-01 00:00:00.000 UTC",
+        "net_change": 1239
+      },
+      {
+        "cumulative_active": 14221,
+        "month": "2019-10-01 00:00:00.000 UTC",
+        "net_change": 3932
+      },
+      {
+        "cumulative_active": 27903,
+        "month": "2019-11-01 00:00:00.000 UTC",
+        "net_change": 13682
+      },
+      {
+        "cumulative_active": 31759,
+        "month": "2019-12-01 00:00:00.000 UTC",
+        "net_change": 3856
+      },
+      {
+        "cumulative_active": 34894,
+        "month": "2020-01-01 00:00:00.000 UTC",
+        "net_change": 3135
+      },
+      {
+        "cumulative_active": 38912,
+        "month": "2020-02-01 00:00:00.000 UTC",
+        "net_change": 4018
+      },
+      {
+        "cumulative_active": 42847,
+        "month": "2020-03-01 00:00:00.000 UTC",
+        "net_change": 3935
+      },
+      {
+        "cumulative_active": 51913,
+        "month": "2020-04-01 00:00:00.000 UTC",
+        "net_change": 9066
+      },
+      {
+        "cumulative_active": 65113,
+        "month": "2020-05-01 00:00:00.000 UTC",
+        "net_change": 13200
+      },
+      {
+        "cumulative_active": 67577,
+        "month": "2020-06-01 00:00:00.000 UTC",
+        "net_change": 2464
+      },
+      {
+        "cumulative_active": 76557,
+        "month": "2020-07-01 00:00:00.000 UTC",
+        "net_change": 8980
+      },
+      {
+        "cumulative_active": 84918,
+        "month": "2020-08-01 00:00:00.000 UTC",
+        "net_change": 8361
+      },
+      {
+        "cumulative_active": 91309,
+        "month": "2020-09-01 00:00:00.000 UTC",
+        "net_change": 6391
+      },
+      {
+        "cumulative_active": 97867,
+        "month": "2020-10-01 00:00:00.000 UTC",
+        "net_change": 6558
+      },
+      {
+        "cumulative_active": 100741,
+        "month": "2020-11-01 00:00:00.000 UTC",
+        "net_change": 2874
+      },
+      {
+        "cumulative_active": 100431,
+        "month": "2020-12-01 00:00:00.000 UTC",
+        "net_change": -310
+      },
+      {
+        "cumulative_active": 105002,
+        "month": "2021-01-01 00:00:00.000 UTC",
+        "net_change": 4571
+      },
+      {
+        "cumulative_active": 109659,
+        "month": "2021-02-01 00:00:00.000 UTC",
+        "net_change": 4657
+      },
+      {
+        "cumulative_active": 118879,
+        "month": "2021-03-01 00:00:00.000 UTC",
+        "net_change": 9220
+      },
+      {
+        "cumulative_active": 128469,
+        "month": "2021-04-01 00:00:00.000 UTC",
+        "net_change": 9590
+      },
+      {
+        "cumulative_active": 137938,
+        "month": "2021-05-01 00:00:00.000 UTC",
+        "net_change": 9469
+      },
+      {
+        "cumulative_active": 158719,
+        "month": "2021-06-01 00:00:00.000 UTC",
+        "net_change": 20781
+      },
+      {
+        "cumulative_active": 180193,
+        "month": "2021-07-01 00:00:00.000 UTC",
+        "net_change": 21474
+      },
+      {
+        "cumulative_active": 212710,
+        "month": "2021-08-01 00:00:00.000 UTC",
+        "net_change": 32517
+      },
+      {
+        "cumulative_active": 248349,
+        "month": "2021-09-01 00:00:00.000 UTC",
+        "net_change": 35639
+      },
+      {
+        "cumulative_active": 274821,
+        "month": "2021-10-01 00:00:00.000 UTC",
+        "net_change": 26472
+      },
+      {
+        "cumulative_active": 362076,
+        "month": "2021-11-01 00:00:00.000 UTC",
+        "net_change": 87255
+      },
+      {
+        "cumulative_active": 469075,
+        "month": "2021-12-01 00:00:00.000 UTC",
+        "net_change": 106999
+      },
+      {
+        "cumulative_active": 534097,
+        "month": "2022-01-01 00:00:00.000 UTC",
+        "net_change": 65022
+      },
+      {
+        "cumulative_active": 599394,
+        "month": "2022-02-01 00:00:00.000 UTC",
+        "net_change": 65297
+      },
+      {
+        "cumulative_active": 683233,
+        "month": "2022-03-01 00:00:00.000 UTC",
+        "net_change": 83839
+      },
+      {
+        "cumulative_active": 844488,
+        "month": "2022-04-01 00:00:00.000 UTC",
+        "net_change": 161255
+      },
+      {
+        "cumulative_active": 1208399,
+        "month": "2022-05-01 00:00:00.000 UTC",
+        "net_change": 363911
+      },
+      {
+        "cumulative_active": 1323288,
+        "month": "2022-06-01 00:00:00.000 UTC",
+        "net_change": 114889
+      },
+      {
+        "cumulative_active": 1686444,
+        "month": "2022-07-01 00:00:00.000 UTC",
+        "net_change": 363156
+      },
+      {
+        "cumulative_active": 1972648,
+        "month": "2022-08-01 00:00:00.000 UTC",
+        "net_change": 286204
+      },
+      {
+        "cumulative_active": 2364422,
+        "month": "2022-09-01 00:00:00.000 UTC",
+        "net_change": 391774
+      },
+      {
+        "cumulative_active": 2511754,
+        "month": "2022-10-01 00:00:00.000 UTC",
+        "net_change": 147332
+      },
+      {
+        "cumulative_active": 2494955,
+        "month": "2022-11-01 00:00:00.000 UTC",
+        "net_change": -16799
+      },
+      {
+        "cumulative_active": 2486850,
+        "month": "2022-12-01 00:00:00.000 UTC",
+        "net_change": -8105
+      },
+      {
+        "cumulative_active": 2476924,
+        "month": "2023-01-01 00:00:00.000 UTC",
+        "net_change": -9926
+      },
+      {
+        "cumulative_active": 2473390,
+        "month": "2023-02-01 00:00:00.000 UTC",
+        "net_change": -3534
+      },
+      {
+        "cumulative_active": 2475176,
+        "month": "2023-03-01 00:00:00.000 UTC",
+        "net_change": 1786
+      },
+      {
+        "cumulative_active": 2453618,
+        "month": "2023-04-01 00:00:00.000 UTC",
+        "net_change": -21558
+      },
+      {
+        "cumulative_active": 2406910,
+        "month": "2023-05-01 00:00:00.000 UTC",
+        "net_change": -46708
+      },
+      {
+        "cumulative_active": 2282448,
+        "month": "2023-06-01 00:00:00.000 UTC",
+        "net_change": -124462
+      },
+      {
+        "cumulative_active": 2252009,
+        "month": "2023-07-01 00:00:00.000 UTC",
+        "net_change": -30439
+      },
+      {
+        "cumulative_active": 2119469,
+        "month": "2023-08-01 00:00:00.000 UTC",
+        "net_change": -132540
+      },
+      {
+        "cumulative_active": 2002316,
+        "month": "2023-09-01 00:00:00.000 UTC",
+        "net_change": -117153
+      },
+      {
+        "cumulative_active": 1866146,
+        "month": "2023-10-01 00:00:00.000 UTC",
+        "net_change": -136170
+      },
+      {
+        "cumulative_active": 1794051,
+        "month": "2023-11-01 00:00:00.000 UTC",
+        "net_change": -72095
+      },
+      {
+        "cumulative_active": 1767070,
+        "month": "2023-12-01 00:00:00.000 UTC",
+        "net_change": -26981
+      },
+      {
+        "cumulative_active": 1761530,
+        "month": "2024-01-01 00:00:00.000 UTC",
+        "net_change": -5540
+      },
+      {
+        "cumulative_active": 1756877,
+        "month": "2024-02-01 00:00:00.000 UTC",
+        "net_change": -4653
+      },
+      {
+        "cumulative_active": 1741447,
+        "month": "2024-03-01 00:00:00.000 UTC",
+        "net_change": -15430
+      },
+      {
+        "cumulative_active": 1745976,
+        "month": "2024-04-01 00:00:00.000 UTC",
+        "net_change": 4529
+      },
+      {
+        "cumulative_active": 1727215,
+        "month": "2024-05-01 00:00:00.000 UTC",
+        "net_change": -18761
+      },
+      {
+        "cumulative_active": 1665933,
+        "month": "2024-06-01 00:00:00.000 UTC",
+        "net_change": -61282
+      },
+      {
+        "cumulative_active": 1631148,
+        "month": "2024-07-01 00:00:00.000 UTC",
+        "net_change": -34785
+      },
+      {
+        "cumulative_active": 1578885,
+        "month": "2024-08-01 00:00:00.000 UTC",
+        "net_change": -52263
+      },
+      {
+        "cumulative_active": 1530365,
+        "month": "2024-09-01 00:00:00.000 UTC",
+        "net_change": -48520
+      },
+      {
+        "cumulative_active": 1483460,
+        "month": "2024-10-01 00:00:00.000 UTC",
+        "net_change": -46905
+      },
+      {
+        "cumulative_active": 1433851,
+        "month": "2024-11-01 00:00:00.000 UTC",
+        "net_change": -49609
+      },
+      {
+        "cumulative_active": 1421111,
+        "month": "2024-12-01 00:00:00.000 UTC",
+        "net_change": -12740
+      },
+      {
+        "cumulative_active": 1398227,
+        "month": "2025-01-01 00:00:00.000 UTC",
+        "net_change": -22884
+      },
+      {
+        "cumulative_active": 1379144,
+        "month": "2025-02-01 00:00:00.000 UTC",
+        "net_change": -19083
+      },
+      {
+        "cumulative_active": 1353538,
+        "month": "2025-03-01 00:00:00.000 UTC",
+        "net_change": -25606
+      },
+      {
+        "cumulative_active": 1327900,
+        "month": "2025-04-01 00:00:00.000 UTC",
+        "net_change": -25638
+      },
+      {
+        "cumulative_active": 1281892,
+        "month": "2025-05-01 00:00:00.000 UTC",
+        "net_change": -46008
+      },
+      {
+        "cumulative_active": 1225355,
+        "month": "2025-06-01 00:00:00.000 UTC",
+        "net_change": -56537
+      },
+      {
+        "cumulative_active": 1225314,
+        "month": "2025-07-01 00:00:00.000 UTC",
+        "net_change": -41
+      },
+      {
+        "cumulative_active": 1221072,
+        "month": "2025-08-01 00:00:00.000 UTC",
+        "net_change": -4242
+      },
+      {
+        "cumulative_active": 1184444,
+        "month": "2025-09-01 00:00:00.000 UTC",
+        "net_change": -36628
+      },
+      {
+        "cumulative_active": 1146824,
+        "month": "2025-10-01 00:00:00.000 UTC",
+        "net_change": -37620
+      },
+      {
+        "cumulative_active": 1121307,
+        "month": "2025-11-01 00:00:00.000 UTC",
+        "net_change": -25517
+      },
+      {
+        "cumulative_active": 1102291,
+        "month": "2025-12-01 00:00:00.000 UTC",
+        "net_change": -19016
+      },
+      {
+        "cumulative_active": 1078480,
+        "month": "2026-01-01 00:00:00.000 UTC",
+        "net_change": -23811
+      },
+      {
+        "cumulative_active": 1051473,
+        "month": "2026-02-01 00:00:00.000 UTC",
+        "net_change": -27007
+      },
+      {
+        "cumulative_active": 1022863,
+        "month": "2026-03-01 00:00:00.000 UTC",
+        "net_change": -28610
+      },
+      {
+        "cumulative_active": 990856,
+        "month": "2026-04-01 00:00:00.000 UTC",
+        "net_change": -32007
+      }
+    ]
+  },
+  "is_execution_finished": true
+}
